@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+*.orig
+out/
+build/
+dist/
+.venv/
+venv/
+__pycache__/
+*.pyc
+artifacts/private/
